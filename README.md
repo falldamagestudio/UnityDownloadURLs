@@ -3,7 +3,7 @@ It is intended to be used for performing automated installation of the Unity cli
 
 You can browse the repository at <https://github.com/falldamagestudio/UnityDownloadURLs>.
 
-You can access the results at <falldamagestudio.github.io/UnityDownloadURLs>.
+You can access the results at <https://falldamagestudio.github.io/UnityDownloadURLs>.
 
 # How to use
 
