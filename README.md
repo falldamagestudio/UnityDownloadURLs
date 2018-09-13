@@ -25,7 +25,7 @@ Download URLs will be on the format:
 
 https://falldamagestudio.github.io/UnityDownloadURLs/installers/{version}/{component}
 
-A version number is typically on the form of `2018.2.5f1`. Which components exist varies between major Unity releases; the editor is usually called `Windows64-Editor`.
+A version number is typically on the form of `2018.2.5f1`. Which components exist varies between major Unity releases; the editor is usually called `Windows64-Editor`. For example, <https://falldamagestudio.github.io/UnityDownloadURLs/installers/2018.2.5f1/Windows64-Editor> is a valid download URL.
 
 You can fetch this URL with `wget` or similar. It will HTTP-REFRESH redirect to the real file on Unity's site (netstorage.unity3d.com).
 
